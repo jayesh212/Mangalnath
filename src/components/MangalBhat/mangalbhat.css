@@ -6,11 +6,17 @@
     margin: 8px;
     padding:8px;
 }
+.pujaImage{
+    max-width: 50vw;
+}
 .pageHeading{
     text-align: center;
 }
 @media only screen and (max-width: 1000px){
     .page{
         flex-direction: column;
+    }
+    .pujaImage{
+        max-width: 100vw;
     }
 }

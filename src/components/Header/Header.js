@@ -27,14 +27,14 @@ const Header = ({ onPageChange }) => {
         >
           Kaal Sarp Pooja
         </a>
-        <a href="tel:+917999026374" className="customLinks">
+        <a href="tel:+919981159011" className="customLinks">
           Call
         </a>
         <a
-          href="https://api.whatsapp.com/send?phone=917999026374"
+          href="https://api.whatsapp.com/send?phone=919981159011"
           className="customLinks"
-          target='_blank'
-          rel='noreferrer'
+          target="_blank"
+          rel="noreferrer"
         >
           Whatsapp
         </a>

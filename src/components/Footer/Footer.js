@@ -3,7 +3,7 @@ import './Footer.css';
 const Footer = () => {
     return (
       <div className="Footer">
-          <span className='customLinks'>Contact Us +91 7999026374 </span>
+        <span className="customLinks">Contact Us +91 9981159011 </span>
       </div>
     );
 }
