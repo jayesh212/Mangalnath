@@ -1,0 +1,16 @@
+.page{
+    display: flex;
+    flex-direction: row;
+}
+.renderArea{
+    margin: 8px;
+    padding:8px;
+}
+.pageHeading{
+    text-align: center;
+}
+@media only screen and (max-width: 1000px){
+    .page{
+        flex-direction: column;
+    }
+}

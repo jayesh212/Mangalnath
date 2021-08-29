@@ -5,7 +5,6 @@ import Home from './components/Home/Home';
 import LanguageHeader from './components/LanguageHeader';
 import CopyrightInfo from './components/copyright';
 import Profile from './components/Profile/Profile';
-import AboutTemple from './components/AboutTemple/AboutTemple';
 import KaalSarp from './components/KaalSarp/KaalSarp';
 import MangalBhat from './components/MangalBhat/MangalBhat';
 const App = () => {
@@ -18,7 +17,6 @@ const App = () => {
             <LanguageHeader />
             <Header onPageChange={onPageChange}/>
             {currentPage==='Home' && <Home />}
-            {currentPage==='AboutTemple' && <AboutTemple />}
             {currentPage==='Profile' && <Profile />}
             {currentPage==='KaalSarp' && <KaalSarp />}
             {currentPage==='MangalBhat' && <MangalBhat />}

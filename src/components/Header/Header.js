@@ -12,14 +12,6 @@ const Header = ({ onPageChange }) => {
       </a>
       <div className="HeaderLinks">
         <a
-          href="About"
-          id="AboutTemple"
-          onClick={onLinkClicked}
-          className="customLinks"
-        >
-          About Temple
-        </a>
-        <a
           href="MangalBhat"
           className="customLinks"
           id="MangalBhat"
@@ -42,6 +34,7 @@ const Header = ({ onPageChange }) => {
           href="https://api.whatsapp.com/send?phone=917999026374"
           className="customLinks"
           target='_blank'
+          rel='noreferrer'
         >
           Whatsapp
         </a>
