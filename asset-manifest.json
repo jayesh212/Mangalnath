@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/Mangalnath/static/css/main.f9d74f7d.chunk.css",
-    "main.js": "/Mangalnath/static/js/main.7b81843d.chunk.js",
-    "main.js.map": "/Mangalnath/static/js/main.7b81843d.chunk.js.map",
+    "main.css": "/Mangalnath/static/css/main.576523cf.chunk.css",
+    "main.js": "/Mangalnath/static/js/main.32fe7931.chunk.js",
+    "main.js.map": "/Mangalnath/static/js/main.32fe7931.chunk.js.map",
     "runtime-main.js": "/Mangalnath/static/js/runtime-main.d40ae647.js",
     "runtime-main.js.map": "/Mangalnath/static/js/runtime-main.d40ae647.js.map",
     "static/js/2.e642ab32.chunk.js": "/Mangalnath/static/js/2.e642ab32.chunk.js",
     "static/js/2.e642ab32.chunk.js.map": "/Mangalnath/static/js/2.e642ab32.chunk.js.map",
     "index.html": "/Mangalnath/index.html",
-    "static/css/main.f9d74f7d.chunk.css.map": "/Mangalnath/static/css/main.f9d74f7d.chunk.css.map",
-    "static/js/2.e642ab32.chunk.js.LICENSE.txt": "/Mangalnath/static/js/2.e642ab32.chunk.js.LICENSE.txt"
+    "static/css/main.576523cf.chunk.css.map": "/Mangalnath/static/css/main.576523cf.chunk.css.map",
+    "static/js/2.e642ab32.chunk.js.LICENSE.txt": "/Mangalnath/static/js/2.e642ab32.chunk.js.LICENSE.txt",
+    "static/media/mangalbhat.5f886c43.jpg": "/Mangalnath/static/media/mangalbhat.5f886c43.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d40ae647.js",
     "static/js/2.e642ab32.chunk.js",
-    "static/css/main.f9d74f7d.chunk.css",
-    "static/js/main.7b81843d.chunk.js"
+    "static/css/main.576523cf.chunk.css",
+    "static/js/main.32fe7931.chunk.js"
   ]
 }
