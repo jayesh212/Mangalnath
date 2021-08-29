@@ -31,10 +31,10 @@ const Header = ({ onPageChange }) => {
           Call
         </a>
         <a
-          href="https://api.whatsapp.com/send?phone=919981159011"
+          href="https://wa.me/send?phone=919981159011"
           className="customLinks"
           target="_blank"
-          rel="noreferrer"
+          rel='noreferrer'
         >
           Whatsapp
         </a>
