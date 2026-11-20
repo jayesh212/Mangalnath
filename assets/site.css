@@ -349,3 +349,7 @@ body { padding-bottom: 0; }
   .emblem-wrap { display: block; }
   .ai-info { padding-bottom: 18px; }
 }
+
+.review { position: relative; }
+.sample-tag { position: absolute; top: 12px; right: 12px; font-size: .75rem; font-weight: 600; color: #6B4F14; background: #FFF3D6; border: 1px dashed #C9A86A; border-radius: 4px; padding: 1px 8px; }
+.review blockquote { padding-right: 52px; }

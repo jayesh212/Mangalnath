@@ -300,10 +300,6 @@ ${body}
       </ul>
     </div>
   </div>
-  <div class="wrap foot-note">
-    <p>${T("This is the personal website of Pandit Omprakash Ji Bharadwaj, not the official website of Mangalnath Temple. Pujas are performed with faith and according to Vedic tradition; no specific result is promised.",
-      "यह पंडित ओमप्रकाश जी भारद्वाज की निजी वेबसाइट है, मंगलनाथ मंदिर की आधिकारिक वेबसाइट नहीं। पूजा श्रद्धा और वैदिक परंपरा के अनुसार की जाती है; किसी विशेष परिणाम का वादा नहीं किया जाता।")}</p>
-  </div>
 </footer>
 ${aiBlock(page)}
 <div class="dock" role="navigation" aria-label="${T("Contact", "संपर्क")}">
@@ -322,12 +318,13 @@ function reviewsBlock() {
   return `<section class="band" id="reviews">
   <div class="wrap">
     <div class="sec-head">${lotus}<h2>${T("What devotees say", "भक्तों के अनुभव")}</h2></div>
-    ${allSample ? `<p class="note-sample">${T("Sample layout: real devotee reviews will be added here.", "नमूना: असली समीक्षाएं जल्द जोड़ी जाएंगी।")}</p>` : ""}
+    ${allSample ? `<p class="note-sample">${T("Sample reviews for now. Real devotee reviews will be added soon.", "ये नमूना समीक्षाएं हैं। असली भक्तों की समीक्षाएं जल्द जोड़ी जाएंगी।")}</p>` : ""}
     <div class="reviews">
-      ${reviews.map((r) => `<figure class="review${r.placeholder ? " is-sample" : ""}">
-        <blockquote>${esc(r.text)}</blockquote>
-        <figcaption><span><strong>${esc(r.name)}</strong>, ${esc(r.place)}</span><span>${esc(r.puja)}</span></figcaption>
-      </figure>`).join("")}
+      ${reviews.map((r) => { const hi = LANG === "hi"; return `<figure class="review${r.placeholder ? " is-sample" : ""}">
+        ${r.placeholder ? `<span class="sample-tag">${T("Sample", "नमूना")}</span>` : ""}
+        <blockquote>${esc(hi ? r.text : r.textEn || r.text)}</blockquote>
+        <figcaption><span><strong>${esc(hi ? r.name : r.nameEn || r.name)}</strong>, ${esc(hi ? r.place : r.placeEn || r.place)}</span><span>${esc(hi ? r.puja : r.pujaEn || r.puja)}</span></figcaption>
+      </figure>`; }).join("")}
     </div>
   </div>
 </section>`;
