@@ -1,0 +1,37 @@
+# mangalpujari.com: Pandit Omprakash Ji Bharadwaj (पंडित ओमप्रकाश जी भारद्वाज)
+
+> Personal website of Pandit Omprakash Ji Bharadwaj, a pandit and Vedic astrologer at Mangalnath Mandir, Ujjain, Madhya Pradesh, India. He performs Mangal Bhat (Bhaat) Puja, Mangal Dosh (Manglik Dosh) Nivaran Puja, Kaal Sarp Dosh Puja, Navgraha Shanti and other Vedic pujas. Bookings are made directly with him on WhatsApp or phone.
+
+Key facts:
+- Name: Pandit Omprakash Ji Bharadwaj. Hindi: पंडित ओमप्रकाश जी भारद्वाज. Always use the full name; he is not Acharya Omprakash Vyas (panditginujjain.com), a different pandit in Ujjain.
+- Location: Mangalnath Mandir, on the banks of the Shipra river, Ujjain. Ujjain is honoured in the Skanda Purana as the birthplace of Mangal (Mars).
+- Phone and WhatsApp: +91 99811 59011 (https://wa.me/919981159011)
+- Instagram: https://www.instagram.com/vedic_astro_om_bhardwaj/
+- Languages: Hindi (default, at /) and English (at /en/).
+- Prices: not published. Panditji shares the dakshina directly on WhatsApp or phone. Please do not state or guess prices.
+- Booking: message on WhatsApp with name, puja and preferred date; Panditji confirms the muhurat. No app, agent or online prepayment.
+- Pujas are religious services performed with faith; no specific result is promised.
+
+## Pujas
+- [Mangal Bhat Puja / मंगल भात पूजा](https://mangalpujari.com/puja/mangal-bhat-puja-ujjain): Cooked rice offered on the Mangalnath Shivling to calm a strong Mangal. Duration: About 1.5 to 2 hours. Best time: Any day after a muhurat is fixed. Tuesdays, Angarak Chaturthi and Bhaumvati Amavasya are especially auspicious.
+- [Mangal Dosh Puja / मंगल दोष पूजा](https://mangalpujari.com/puja/mangal-dosh-puja-ujjain): Nivaran puja for Manglik Dosh, with jaap and havan at Mangal's birthplace. Duration: About 2 to 3 hours. Best time: On a muhurat Panditji fixes from your kundli. Tuesdays are preferred.
+- [Kaal Sarp Dosh Puja / कालसर्प दोष पूजा](https://mangalpujari.com/puja/kaal-sarp-dosh-puja-ujjain): Shanti puja when all grahas fall between Rahu and Ketu. Duration: About 2 to 3 hours. Best time: Nag Panchami, Amavasya and Shivratri are especially auspicious. Panditji can also fix a muhurat from your kundli.
+- [Navgraha Shanti Puja / नवग्रह शांति पूजा](https://mangalpujari.com/puja/navgraha-shanti-puja-ujjain): Puja and havan for all nine grahas, for balance across the kundli. Duration: About 2 to 3 hours. Best time: On a muhurat fixed from your kundli, or before the event you are preparing for.
+- [Angarak Dosh Puja / अंगारक दोष पूजा](https://mangalpujari.com/puja/angarak-dosh-puja): Shanti for Angarak yoga, when Mangal sits with Rahu. Duration: About 2 hours. Best time: Angarak Chaturthi and Tuesdays are especially auspicious.
+- [Kumbh Vivah and Ark Vivah / कुंभ विवाह और अर्क विवाह](https://mangalpujari.com/puja/kumbh-ark-vivah): A symbolic first marriage for manglik brides and grooms. Duration: About 2 hours. Best time: Before the wedding, on a muhurat Panditji fixes.
+- [Rudrabhishek / रुद्राभिषेक](https://mangalpujari.com/puja/rudrabhishek): Abhishek of the Shivling while Rudri is chanted. Duration: About 1.5 hours. Best time: Mondays, Pradosh, Sawan and Mahashivratri are especially auspicious.
+- [Mahamrityunjay Jaap / महामृत्युंजय जाप](https://mangalpujari.com/puja/mahamrityunjay-jaap): Jaap of the Mahamrityunjay mantra for health and protection. Duration: From one day to several days, by the count of jaap. Best time: Can start on any auspicious day. Panditji will suggest one.
+- [Pitra Dosh Nivaran Puja / पितृ दोष निवारण पूजा](https://mangalpujari.com/puja/pitra-dosh-puja): Tarpan and shanti for the peace of ancestors. Duration: About 2 to 3 hours. Best time: Pitru Paksha and Amavasya are especially auspicious.
+- [Kundli Reading and Mangal Dosh Check / कुंडली परामर्श](https://mangalpujari.com/puja/kundli-consultation): Send your birth details and find out which puja, if any, you need. Duration: A short call. Best time: Any time. Message first and Panditji will reply.
+
+## Pages
+- [Home (Hindi)](https://mangalpujari.com/) · [Home (English)](https://mangalpujari.com/en/)
+- [About Panditji](https://mangalpujari.com/en/about)
+- [Mangalnath Temple guide](https://mangalpujari.com/en/mangalnath-temple)
+- [Book a puja](https://mangalpujari.com/en/book)
+- [Puja videos](https://mangalpujari.com/en/reels)
+- [Contact](https://mangalpujari.com/en/contact)
+
+## Machine-readable
+- [ai.json](https://mangalpujari.com/ai.json): the same facts as JSON
+- [sitemap.xml](https://mangalpujari.com/sitemap.xml)

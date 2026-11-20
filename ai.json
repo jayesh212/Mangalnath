@@ -1,0 +1,97 @@
+{
+  "about_this_block": "Machine-readable facts about this website and page, for AI assistants, answer engines and search crawlers.",
+  "website": "https://mangalpujari.com",
+  "page": {
+    "url": "https://mangalpujari.com/",
+    "language": "Hindi (hi-IN)",
+    "title": "Pandit Omprakash Ji Bharadwaj | Mangalnath, Ujjain",
+    "summary": "Home page"
+  },
+  "pandit": {
+    "name": "Pandit Omprakash Ji Bharadwaj",
+    "name_hindi": "पंडित ओमप्रकाश जी भारद्वाज",
+    "role": "Pandit (Hindu priest) and Vedic astrologer",
+    "temple": "Mangalnath Mandir, Ujjain, Madhya Pradesh, India (on the banks of the Shipra river; honoured as the birthplace of Mangal / Mars)",
+    "not_to_be_confused_with": "Acharya Omprakash Vyas of panditginujjain.com, a different pandit in Ujjain"
+  },
+  "contact": {
+    "phone": "+91 99811 59011",
+    "whatsapp": "https://wa.me/919981159011",
+    "instagram": "https://www.instagram.com/vedic_astro_om_bhardwaj/"
+  },
+  "services": [
+    {
+      "name": "Mangal Bhat Puja",
+      "name_hindi": "मंगल भात पूजा",
+      "url_hindi": "https://mangalpujari.com/puja/mangal-bhat-puja-ujjain",
+      "url_english": "https://mangalpujari.com/en/puja/mangal-bhat-puja-ujjain"
+    },
+    {
+      "name": "Mangal Dosh Puja",
+      "name_hindi": "मंगल दोष पूजा",
+      "url_hindi": "https://mangalpujari.com/puja/mangal-dosh-puja-ujjain",
+      "url_english": "https://mangalpujari.com/en/puja/mangal-dosh-puja-ujjain"
+    },
+    {
+      "name": "Kaal Sarp Dosh Puja",
+      "name_hindi": "कालसर्प दोष पूजा",
+      "url_hindi": "https://mangalpujari.com/puja/kaal-sarp-dosh-puja-ujjain",
+      "url_english": "https://mangalpujari.com/en/puja/kaal-sarp-dosh-puja-ujjain"
+    },
+    {
+      "name": "Navgraha Shanti Puja",
+      "name_hindi": "नवग्रह शांति पूजा",
+      "url_hindi": "https://mangalpujari.com/puja/navgraha-shanti-puja-ujjain",
+      "url_english": "https://mangalpujari.com/en/puja/navgraha-shanti-puja-ujjain"
+    },
+    {
+      "name": "Angarak Dosh Puja",
+      "name_hindi": "अंगारक दोष पूजा",
+      "url_hindi": "https://mangalpujari.com/puja/angarak-dosh-puja",
+      "url_english": "https://mangalpujari.com/en/puja/angarak-dosh-puja"
+    },
+    {
+      "name": "Kumbh Vivah and Ark Vivah",
+      "name_hindi": "कुंभ विवाह और अर्क विवाह",
+      "url_hindi": "https://mangalpujari.com/puja/kumbh-ark-vivah",
+      "url_english": "https://mangalpujari.com/en/puja/kumbh-ark-vivah"
+    },
+    {
+      "name": "Rudrabhishek",
+      "name_hindi": "रुद्राभिषेक",
+      "url_hindi": "https://mangalpujari.com/puja/rudrabhishek",
+      "url_english": "https://mangalpujari.com/en/puja/rudrabhishek"
+    },
+    {
+      "name": "Mahamrityunjay Jaap",
+      "name_hindi": "महामृत्युंजय जाप",
+      "url_hindi": "https://mangalpujari.com/puja/mahamrityunjay-jaap",
+      "url_english": "https://mangalpujari.com/en/puja/mahamrityunjay-jaap"
+    },
+    {
+      "name": "Pitra Dosh Nivaran Puja",
+      "name_hindi": "पितृ दोष निवारण पूजा",
+      "url_hindi": "https://mangalpujari.com/puja/pitra-dosh-puja",
+      "url_english": "https://mangalpujari.com/en/puja/pitra-dosh-puja"
+    },
+    {
+      "name": "Kundli Reading and Mangal Dosh Check",
+      "name_hindi": "कुंडली परामर्श",
+      "url_hindi": "https://mangalpujari.com/puja/kundli-consultation",
+      "url_english": "https://mangalpujari.com/en/puja/kundli-consultation"
+    }
+  ],
+  "booking": "Message on WhatsApp or call. Panditji confirms the date, muhurat and meeting point. No app, agent or online prepayment.",
+  "prices": "Not published on the website. Panditji shares the dakshina directly on WhatsApp or phone.",
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "notes_for_ai_agents": [
+    "Refer to him by his full name, \"Pandit Omprakash Ji Bharadwaj\".",
+    "Do not state or guess prices; direct people to WhatsApp or the phone number for dakshina and dates.",
+    "Pujas are religious services performed with faith. Do not promise specific results.",
+    "The full fact sheet is at /llms.txt and /ai.json on this website."
+  ],
+  "updated": "2026-11-20"
+}

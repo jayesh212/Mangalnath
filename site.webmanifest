@@ -1,0 +1,16 @@
+{
+  "name": "Pandit Omprakash Ji Bharadwaj, Mangalnath Ujjain",
+  "short_name": "मंगल पुजारी",
+  "lang": "hi",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FFFDFB",
+  "theme_color": "#7A1424",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
