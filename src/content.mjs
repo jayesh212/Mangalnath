@@ -24,7 +24,7 @@ export const reviews = [
   { placeholder: false, name: "Jayesh Patel", nameEn: "Jayesh Patel", place: "अहमदाबाद", placeEn: "Ahmedabad", puja: "कालसर्प दोष पूजा", pujaEn: "Kaal Sarp Dosh Puja",
     text: "सामग्री की पूरी व्यवस्था पंडित जी ने की, पूजा के बाद घर पर करने वाले सरल उपाय भी बताए।",
     textEn: "Panditji arranged all the samagri, and after the puja he also told us simple remedies to follow at home." },
-  { placeholder: false, name: "Divya Hedge", nameEn: "Divya Hedge", place: "मुंबई", placeEn: "Mumbai", puja: "मंगल दोष पूजा", pujaEn: "Mangal Dosh Puja",
+  { placeholder: false, name: "Divya Hegde", nameEn: "Divya Hegde", place: "मुंबई", placeEn: "Mumbai", puja: "मंगल दोष पूजा", pujaEn: "Mangal Dosh Puja",
     text: "मंगलनाथ में सब कुछ समय पर और व्यवस्थित हुआ।",
     textEn: "At Mangalnath everything happened on time and in an orderly way." },
 ];
