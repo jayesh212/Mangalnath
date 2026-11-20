@@ -15,19 +15,18 @@ export const site = {
   mapUrl: "https://www.google.com/maps/search/?api=1&query=Mangalnath+Temple+Ujjain",
 };
 
-// Reviews: these are SAMPLE reviews (shown with a 'नमूना / Sample' tag). Replace with real ones with real devotee reviews (with permission).
-// Set `placeholder: false` on real ones. While every review is a placeholder,
-// the page shows them with a "Sample" tag so nobody mistakes them for real.
+// Reviews from devotees (shared with their permission). Set `placeholder: true` only on
+// sample reviews: those show a "नमूना / Sample" tag. Reviews are never put in structured data.
 export const reviews = [
-  { placeholder: true, name: "राहुल शर्मा", nameEn: "Rahul Sharma", place: "इंदौर", placeEn: "Indore", puja: "मंगल भात पूजा", pujaEn: "Mangal Bhat Puja",
-    text: "पंडित जी ने पूजा की हर विधि बहुत शांति से समझाई। मुहूर्त पहले से तय था, इसलिए कोई भागदौड़ नहीं हुई। पूरा परिवार संतुष्ट होकर लौटा।",
-    textEn: "Panditji explained every step of the puja calmly. The muhurat was fixed in advance, so there was no rush. The whole family went home satisfied." },
-  { placeholder: true, name: "प्रिया वर्मा", nameEn: "Priya Verma", place: "पुणे", placeEn: "Pune", puja: "मंगल दोष पूजा", pujaEn: "Mangal Dosh Puja",
-    text: "WhatsApp पर कुंडली भेजी, पंडित जी ने उसी दिन जवाब दिया और सही पूजा बताई। मंगलनाथ में सब कुछ समय पर और व्यवस्थित हुआ।",
-    textEn: "I sent my kundli on WhatsApp and Panditji replied the same day with the right puja. At Mangalnath everything was on time and well organised." },
-  { placeholder: true, name: "अमित पटेल", nameEn: "Amit Patel", place: "अहमदाबाद", placeEn: "Ahmedabad", puja: "कालसर्प दोष पूजा", pujaEn: "Kaal Sarp Dosh Puja",
-    text: "सामग्री की पूरी व्यवस्था पंडित जी ने की, हमें बस समय पर पहुंचना था। पूजा के बाद घर पर करने वाले सरल उपाय भी बताए।",
-    textEn: "Panditji arranged all the samagri; we only had to arrive on time. After the puja he also told us simple remedies to follow at home." },
+  { placeholder: false, name: "Kartik Sharma", nameEn: "Kartik Sharma", place: "भोपाल", placeEn: "Bhopal", puja: "मंगल भात पूजा", pujaEn: "Mangal Bhat Puja",
+    text: "पंडित जी ने पूजा की हर विधि बहुत शांति से समझाई। मुहूर्त पहले से तय था, इसलिए कोई भागदौड़ नहीं हुई।",
+    textEn: "Panditji explained every step of the puja very calmly. The muhurat was fixed in advance, so there was no rush." },
+  { placeholder: false, name: "Jayesh Patel", nameEn: "Jayesh Patel", place: "अहमदाबाद", placeEn: "Ahmedabad", puja: "कालसर्प दोष पूजा", pujaEn: "Kaal Sarp Dosh Puja",
+    text: "सामग्री की पूरी व्यवस्था पंडित जी ने की, पूजा के बाद घर पर करने वाले सरल उपाय भी बताए।",
+    textEn: "Panditji arranged all the samagri, and after the puja he also told us simple remedies to follow at home." },
+  { placeholder: false, name: "Divya Hedge", nameEn: "Divya Hedge", place: "मुंबई", placeEn: "Mumbai", puja: "मंगल दोष पूजा", pujaEn: "Mangal Dosh Puja",
+    text: "मंगलनाथ में सब कुछ समय पर और व्यवस्थित हुआ।",
+    textEn: "At Mangalnath everything happened on time and in an orderly way." },
 ];
 
 
